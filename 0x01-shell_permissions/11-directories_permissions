@@ -1,1 +1,2 @@
-chmod 711 dir*
+#!/bin/bash
+chmod -R +X .
